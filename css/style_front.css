@@ -1,0 +1,33 @@
+#unsubscribe_form {
+    margin: 0 auto;
+    text-align: center;
+}
+
+#unsubscribe_form label {
+    font-size: 2em;
+    margin-bottom: 1em;
+}
+
+#unsubscribe_form .input-group {
+    padding: 1em;
+}
+
+
+.newsletter_widget h3 {
+    font-size: 2em;
+}
+
+.newsletter_widget small.infoLeg {
+    font-style: italic;
+}
+
+#mail_newsletter {
+    width: 20%;
+    padding: 0.5em;
+    margin-right: 1em;
+}
+
+#newsletter_submit {
+    padding: 0.3em;
+    font-size: 1.2em;
+}

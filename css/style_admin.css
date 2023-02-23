@@ -1,0 +1,110 @@
+.wrapper_newsletter_admin {
+    max-width: 1000px;
+    margin: 1em auto;
+}
+
+.wrapper_newsletter_admin h1, .wrapper_newsletter_admin h2 {
+    font-weight: 400;
+    font-size: 3em;
+    margin: 1em auto;
+    text-align: center;
+    color: rgb(52, 90, 148);
+}
+
+#infos p {
+    margin: 0 auto;
+    font-size: 1.2em;
+    color: darkblue;
+    text-align: center;
+}
+
+.wrapper_newsletter_admin ul {
+    width: 40%;
+    margin: 0 auto;
+    list-style: inside;
+    padding: 1em;
+    font-style: italic;
+    color: darkblue;
+    
+}
+
+#mail {
+    width: 500px;
+    height: auto;
+    margin: 1em auto;
+    padding: 1em;
+    border: 2px solid rgb(52, 90, 148);
+    background-color: rgb(228, 235, 245);
+}
+
+.wrapper_newsletter_admin .input-group {
+    display: flex;
+    flex-direction: column;
+    padding: 0.5em;
+    margin-bottom: 0.5em;
+}
+
+.wrapper_newsletter_admin label {
+    color: rgb(33, 64, 110);
+    font-size: 1.5em;
+    margin-bottom: 0.5em;
+}
+
+#envoi {
+    width: 30%;
+    margin: 0.5em 35% 1.5em 35%;
+    padding: 0.5em;
+    background-color: rgb(52, 90, 148);
+    color: azure;
+}
+
+/* Preview */
+#preview {
+    display: none;
+    max-width: 1000px;
+    border: 2.5px solid black;
+    margin: 0 auto;
+    padding: 5px;
+    background-color: white;
+}
+
+#preview-title{
+    width: 100%; 
+    text-align: center; 
+    font-size: 3em; 
+    font-family: "Georgia", serif;
+    color: #9c5220;
+}
+
+
+#img{
+    max-width: 90%;
+    height: auto;
+    margin: 1em auto;
+}
+
+#img img {
+    max-width: 100%;
+    height: auto;
+}
+
+#preview p {
+    width: 100%; 
+    font-size: 2em;
+    text-align: center; 
+    font-family: "Georgia", serif;
+    margin: 0.5em auto;
+    color: #9c5220;
+}
+
+#preview p a {
+    font-weight: 500;
+}
+
+#unsubscribe-link {
+    font-style: italic; 
+}
+
+
+
+
